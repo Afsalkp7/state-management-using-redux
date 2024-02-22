@@ -1,9 +1,3 @@
-//cartCount
-//addToCart
-// removeCart
-// clearCart
-// cartSlice
-
 import { createSlice } from "@reduxjs/toolkit";
 
 const cartSlice = createSlice({
